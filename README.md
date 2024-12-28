@@ -1,14 +1,44 @@
+<div style="border:2px solid #ccc; padding: 10px; border-radius: 5px;">
+
 ## Hi there 👋
 
 Frontend/Full stack Developer specializing in TypeScript, React, Node.js and responsive web design. Passionate about building efficient and user-friendly web applications. Always excited to learn new technologies and improve my skills. 
 
-## Skills & Technologies
+<div style="border:2px solid #ccc;"></div>
 
-"🖥️ React | 💻 TypeScript | ⚡️ JavaScript | 🌱 HTML/CSS | 📚 Azure | 🛠️ Git"
+## Skills & Technologies
+<div style="padding: 10px; display: flex; align-items: center; gap: 20px;">
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="15"/> React  
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="15"/> Node.js  
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="15"/> JavaScript  
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="15"/> TypeScript  
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="15"/> MySQL 
+    </div>
+    <div>
+        📚 Azure 
+    </div>    
+    <div>
+        🛠️ Git 
+    </div>
+</div>
+
+<div style="border:2px solid #ccc;"></div>
+
 
 ## Personal Interests or Fun Facts
 
 Always excited to learn new web technologies and build projects that make a difference. Outside of coding, I enjoy photography, playing volleyball, and spending time in nature.
+
+<div style="border:2px solid #ccc;"></div>
 
 ## Projects
 
@@ -29,8 +59,7 @@ A React-based app to search GitHub users and display their profile details.
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 
-#### Demo
-![Demo](demo-image-link)
+<div style="border:2px solid #ccc;"></div>
 
 ### Meal Sharing Application
 A full-stack application that allows users to share meals, make reservations, and review dishes. Built with JavaScript, Node.js, and MySQL, this app provides a platform for people to connect over food.
@@ -53,9 +82,7 @@ A full-stack application that allows users to share meals, make reservations, an
 4. Configure environment variables (e.g., database credentials) in `.env`
 5. Run the app: `npm start`
 
-
-#### Demo
-![Demo](demo-image-link)
+<div style="border:2px solid #ccc;"></div>
 
 ### Smart Developers
 A web application designed to showcase the services and expertise of the Smart Developers team. Built with React, JavaScript, HTML, and CSS, this app provides a clean and responsive interface for users to explore various software development services offered by the company.
@@ -78,22 +105,13 @@ A web application designed to showcase the services and expertise of the Smart D
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 
-## Contact Info or Links
+<div style="border:2px solid #ccc;"></div>
 
-📫 Reach me at: amjadiftikhar_99@hotmail.com | 🌐 [Portfolio](https://amjadiftikhar.com).
+## Other Information
+- 🔭 I’m currently working on a TAKE AWAY website
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about React, NodeJS, TypeScript, JavaScript, and SQL Databases (MySQL, PostgreSQL)
+- 📄 Know about my experiences https://www.linkedin.com/in/amjadiftikhar/ 
+- 📫 How to reach me: amjadiftikhar_99@hotmail.com | 🌐 [Portfolio](https://amjadiftikhar.com)
 
-
-<!--
-**amjadiftikhar/amjadiftikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
