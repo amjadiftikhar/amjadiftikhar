@@ -60,6 +60,8 @@ A full-stack application that allows users to share meals, make reservations, an
 ### Smart Developers
 A web application designed to showcase the services and expertise of the Smart Developers team. Built with React, JavaScript, HTML, and CSS, this app provides a clean and responsive interface for users to explore various software development services offered by the company.
 
+🌐 [Smart Developers](https://smartdevelopers.dk/)
+
 #### Features
 - Showcase of the company’s services and projects.
 - User-friendly and responsive design for a seamless experience on all devices.
@@ -75,7 +77,6 @@ A web application designed to showcase the services and expertise of the Smart D
 1. Clone the repo: `git clone https://github.com/amjadiftikhar/smart-developers.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
-
 
 ## Contact Info or Links
 
