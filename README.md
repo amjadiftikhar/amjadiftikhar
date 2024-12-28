@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Frontend/Full stack Developer specializing in TypeScript, React, Node.js and responsive web design. Passionate about building efficient and user-friendly web applications. Always excited to learn new technologies and improve my skills. 
+
+## Skills & Technologies
+
+"🖥️ React | 💻 TypeScript | ⚡️ JavaScript | 🌱 HTML/CSS | 📚 Azure | 🛠️ Git"
+
+## Personal Interests or Fun Facts
+
+Always excited to learn new web technologies and build projects that make a difference. Outside of coding, I enjoy photography, playing volleyball, and spending time in nature.
+
 # GitHub User Search
 A React-based app to search GitHub users and display their profile details.
 
@@ -19,6 +29,10 @@ A React-based app to search GitHub users and display their profile details.
 
 ### Demo
 ![Demo](demo-image-link)
+
+## Contact Info or Links
+
+📫 Reach me at: amjadiftikhar_99@hotmail.com | 🌐 [Portfolio](https://amjadiftikhar.com).
 
 
 <!--
